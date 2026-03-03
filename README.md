@@ -1,1 +1,3 @@
-# betpride
+# Betpride
+
+Betting Offers Finder Project
